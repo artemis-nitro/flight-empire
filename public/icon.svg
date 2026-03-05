@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#030c18" rx="80"/>
+  <text x="256" y="340" font-size="300" text-anchor="middle" fill="#00aaff" font-family="serif">✈</text>
+  <text x="256" y="440" font-size="60" text-anchor="middle" fill="#00ff99" font-family="monospace" font-weight="bold">SKY</text>
+</svg>
